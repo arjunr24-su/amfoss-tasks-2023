@@ -1,0 +1,36 @@
+package main
+
+import (
+	"fmt"
+)
+
+func isPrime(num int) bool {
+	if num < 2 {
+		return false
+	}
+	for i := 2; i*i <= num; i++ {
+		if num%i == 0 {
+			return false
+		}
+	}
+	return true
+}
+
+func printPrimesUpToN(n int) {
+	for i := 1; i <= n; i++ {
+		if isPrime(i) {
+			fmt.Printf("%d ", i)
+		}
+	}
+}
+
+func main() {
+	var n int
+	fmt.Print("Enter a number: ")
+	_, err := fmt.Scanf("%d", &n)
+	if err != nil {
+		fmt.Println("Invalid input. Please enter a valid integer.")
+		return
+	}
+	printPrimesUpToN(n)
+}

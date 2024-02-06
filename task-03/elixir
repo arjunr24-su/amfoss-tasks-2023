@@ -1,0 +1,13 @@
+defmodule PrimeNumbers do
+  def is_prime(x) when x > 1 do
+    Enum.all?(1..trunc(:math.sqrt(x)), fn i -> rem(x, i) != 0 end)
+  end
+
+  def print_primes_up_to_n(n) do
+    Enum.each(1..n, fn i -> IO.write("#{i} ") if is_prime(i) end)
+  end
+end
+
+IO.write("Enter a number: ")
+n = String.to_integer(IO.gets(""))
+PrimeNumbers.print_primes_up_to_n(n)

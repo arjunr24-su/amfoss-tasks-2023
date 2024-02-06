@@ -1,0 +1,13 @@
+isPrime :: Int -> Bool
+isPrime n
+    | n < 2 = False
+    | otherwise = all (\x -> n `mod` x /= 0) [2..floor (sqrt (fromIntegral n))]
+
+printPrimesUpToN :: Int -> IO ()
+printPrimesUpToN n = putStrLn $ unwords [show x | x <- [1..n], isPrime x]
+
+main :: IO ()
+main = do
+    putStrLn "Enter a number: "
+    n <- readLn
+    printPrimesUpToN n
