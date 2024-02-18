@@ -1,3 +1,9 @@
+hacker rank id
+ARJUN RAJESH
+
+@arjunrajesh59
+
+
 <h1>question 2</h1>
 <pre>
 a=0
@@ -12,7 +18,7 @@ if (a,b,c)==(0,0,0):
     print("YES")
 else:
     print("NO")
-</pre>
+</pre>a
 
 
 
@@ -88,28 +94,4 @@ for _ in range(t):
     grid = [input() for _ in range(3)]
     print(check_winner(grid))
 
-</pre>
-<br>
-
-<h1>Question 8 </h1>
-<pre>
-def can_say_hello(s):
-    target = "hello"
-    i, j = 0, 0
-    while i < len(s) and j < len(target):
-        if s[i] == target[j]:
-            j += 1
-        i += 1
-    return j == len(target)
-
-
-s = input().strip()
-
-
-if can_say_hello(s):
-    print("YES")
-else:
-    print("NO")
-
-    
 </pre>
