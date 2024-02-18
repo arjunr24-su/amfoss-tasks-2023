@@ -16,7 +16,7 @@ I will be an active contributer and an asset for the club and will do my level b
 [Task-08](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-08)|Poke-Search|InCompleted
 [Task-09](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-09)|GeoQuest|InCompleted
 [Task-10](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-10)|RuskOS|InCompleted
-[Task-11](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-11)|TinkerCAD|InCompleted
+[Task-11](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-11)|TinkerCAD|Completed
 [Task-12](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-12)|Godot|InCompleted
 [Task-13](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-13)|Vim|Completed
 [Task-14](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-14)|Bandit|InCompleted
