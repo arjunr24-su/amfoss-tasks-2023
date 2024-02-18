@@ -15,7 +15,7 @@ else:
 
 
 
-#
+# question 6
 def main():
     n = int(input())
     travel_times = list(map(int, input().split()))
