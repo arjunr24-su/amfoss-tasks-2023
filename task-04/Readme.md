@@ -1,5 +1,5 @@
-##question 2
-
+<h1>question 2</h1>
+<pre>
 a=0
 b=0
 c=0
@@ -12,10 +12,12 @@ if (a,b,c)==(0,0,0):
     print("YES")
 else:
     print("NO")
+</pre>
 
 
 
-# question 6
+<h2>question 6</h2>
+<pre>
 def main():
     n = int(input())
     travel_times = list(map(int, input().split()))
@@ -35,3 +37,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+</pre>
