@@ -16,7 +16,7 @@ else:
 
 
 
-<h2>question 6</h2>
+<h1>question 6</h1>
 <pre>
 def main():
     n = int(input())
@@ -38,8 +38,11 @@ def main():
 if __name__ == "__main__":
     main()
 </pre>
+
+
 <br>
-<h1>question
+
+<h1>question7
 </h1>
 <pre>
     def count_difference(s):
