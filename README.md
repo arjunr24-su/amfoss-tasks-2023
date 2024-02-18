@@ -12,7 +12,7 @@ I will be an active contributer and an asset for the club and will do my level b
 [Task-04](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-04)|Hacker-Rank|Completed
 [Task-05](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-05)|Rockstar Band|Completed
 [Task-06](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-06)|Cricket Vault|Completed
-[Task-07](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-07)|AK-47℃|InCompleted
+[Task-07](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-07)|AK-47℃|Completed
 [Task-08](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-08)|Poke-Search|InCompleted
 [Task-09](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-09)|GeoQuest|InCompleted
 [Task-10](https://github.com/arjunr24-su/amfoss-tasks/tree/main/task-10)|RuskOS|InCompleted
