@@ -1,0 +1,117 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-image: url(''); /* Add background image path */
+    background-size: cover;
+    height: 100vh;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 2.5px;
+    background: linear-gradient(to right, transparent, transparent 20%, #0B0B21 20%, #0B0B21 80%, transparent 80%, transparent);
+    /* Add some box-shadow to create a 3D effect */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2), inset 0 -10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.menu-icon{
+    width: 40px;
+}
+.social-icons img{
+    width: 40px;
+   margin-right:10px;
+   padding:0.5px;
+}
+
+h1 {
+    color: white;
+    font-size: 3em;
+    text-align: center;
+}
+.container {
+    position: relative; /* Make the container a reference for the absolute positioned image */
+    height: 100vh; /* Set the container height to the full viewport height */
+    align-items: center;
+  }
+  
+.background-photo {
+    position: relative; /* Make the image a reference for the foreground image */
+    width: 100%; /* Set the image width to the full viewport width */
+    height: 100vh; /* Set the image height to the full viewport height */
+    object-fit: cover; /* Scale the image to fit the container */
+  }
+  
+.foreground-photo {
+    position: absolute; /* Position the image relative to the background image */
+    top: 75%; /* Move it to the center of the background image */
+    left: 50%; /* Move it to the center of the background image */
+    transform: translate(-50%, -50%); 
+    width: 50%; 
+    z-index: 1; 
+  }
+  
+.button {
+position: absolute;
+background-color: turquoise;
+top: 95%;
+left: 50%;
+transform: translateX(-50%);
+display: flex;
+justify-content:left;
+height: -0.4px;
+width: 250px;
+border-radius: 5px;
+margin: 0%
+
+
+  
+}
+  
+      
+
+.text{
+    color: rgb(0, 0, 0);
+    font-weight: 900 ;
+    font-size: 40px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 28px;
+    color: white;
+    transition: transform 0.5s;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.p1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    background-color: turquoise;
+    font-size:22px;
+    font-size:20px;
+    
+
+}
+.shop{
+    position: absolute; /* Position the image relative to the background image */
+    top: 54%; /* Move it to the center of the background image */
+    right:-35%; /* Move it to the center of the background image */
+    transform: translate(-50%, -50%); /* Adjust the position to account for the image size */
+    width: 50%; /* Adjust the image width as needed */
+    z-index: 1; /* Ensure the image is above the background image */
+    height: 100px;
+   
+    
+   
+    
+}
+  
+.anchor{
+    text-decoration: none ;
+    color: black;
+}
+  
