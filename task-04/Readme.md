@@ -38,3 +38,24 @@ def main():
 if __name__ == "__main__":
     main()
 </pre>
+<br>
+<h1>question
+</h1>
+<pre>
+    def count_difference(s):
+    a = "amfoss"
+    diff_count = 0
+    for i in range(len(s)):
+        if s[i] != a[i]:
+            diff_count += 1
+    return diff_count
+
+
+t = int(input())
+
+
+for _ in range(t):
+    s = input().strip()
+    print(count_difference(s))
+
+</pre>
