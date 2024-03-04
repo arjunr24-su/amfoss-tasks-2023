@@ -1,8 +1,21 @@
-Hi, my name is Arjun Rajesh from CSE-C S2 .
-I believe I am an active learner and is dedicated towards any tasks given to me , I approach all tasks by proper planning and try my level best to solve them.
-Within 6 months I want to fully learn networking and ethical hacking as a skill, I am currently learning this from Youtube channels like tryhackme,freecodecamp
-I will be an active contributer and an asset for the club and will do my level best to learn  from and teach my fellow members
-<pre>There are some tasks where I was unable to fully complete the task like ,I was unable to access netlify, and to be honest I am student coming from biology background, within a short period of time i was able to learn and solve some of these task and I used some help from chatgpt,youtube,stackoverflow </pre>
+# AMFOSS TASKS
+
+## Introduction
+Greetings! I'm Arjun Rajesh, a first-year Computer Science student at S2. My passion lies in coding, problem-solving, and staying abreast of emerging technologies. I firmly believe in continuous learning and aspire to leave a positive mark on the tech community.
+
+## Introspection
+Reflecting on my journey thus far, I've come to appreciate the power of consistency and unwavering perseverance. Challenges have been my stepping stones, shaping me into a more resilient individual. I eagerly anticipate pushing my boundaries further.
+
+## Future Aspirations
+Looking ahead, I intend to specialize in web development. My goal is to actively contribute to open-source projects, delve into backend technologies, and hone my algorithmic prowess. Building impactful applications is my North Star.
+
+## Contributions to the Club
+Within the club, I'm committed to active participation. Workshops, hackathons, and coding competitions are my playgrounds. I relish collaborating with fellow students, sharing knowledge, and organizing events that enrich everyone's journey.
+
+## Overcoming Hurdles
+Coming from a Biology background, I encountered my fair share of challenges while tackling tasks. However, with the guidance of YouTube tutorials and supportive friends, I've embraced new concepts and programming languages. The journey continues!
+
+
 
 *Tasks List|Description|Status*
 --------------|---------------|---------------
